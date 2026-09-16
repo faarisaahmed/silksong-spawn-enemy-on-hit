@@ -1,0 +1,7 @@
+LocalPaths.props
+bin/
+obj/
+*.user
+.DS_Store
+package/BepInEx/
+*.zip

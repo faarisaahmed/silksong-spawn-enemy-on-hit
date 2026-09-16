@@ -1,6 +1,6 @@
 {
   "name": "SpawnEnemyOnHit",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/faarisaahmed/silksong-spawn-enemy-on-hit",
   "description": "Every hit you take summons an enemy you have already met. The more of Pharloom you have seen, the deadlier your own mistakes become.",
   "dependencies": [

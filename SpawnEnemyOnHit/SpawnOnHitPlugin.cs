@@ -18,7 +18,7 @@ namespace SpawnEnemyOnHit
     /// unfair: bosses are in the roster, and without a way out a stairwell with a boss in it
     /// would be the end of the run.
     /// </remarks>
-    [BepInPlugin(Guid, "Spawn Enemy On Hit", "1.0.0")]
+    [BepInPlugin(Guid, "Spawn Enemy On Hit", "1.0.1")]
     public sealed class SpawnOnHitPlugin : BaseUnityPlugin
     {
         public const string Guid = "com.faaris.spawnenemyonhit";
